@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efuab\\source\\repos\\TestingGroupJ\\TestingGroupJ\\TestingGroupJ.csproj": {}
+    "C:\\Users\\efuab\\source\\repos\\Repo One\\Automation-One\\TestingGroupJ\\TestingGroupJ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efuab\\source\\repos\\TestingGroupJ\\TestingGroupJ\\TestingGroupJ.csproj": {
+    "C:\\Users\\efuab\\source\\repos\\Repo One\\Automation-One\\TestingGroupJ\\TestingGroupJ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efuab\\source\\repos\\TestingGroupJ\\TestingGroupJ\\TestingGroupJ.csproj",
+        "projectUniqueName": "C:\\Users\\efuab\\source\\repos\\Repo One\\Automation-One\\TestingGroupJ\\TestingGroupJ.csproj",
         "projectName": "TestingGroupJ",
-        "projectPath": "C:\\Users\\efuab\\source\\repos\\TestingGroupJ\\TestingGroupJ\\TestingGroupJ.csproj",
+        "projectPath": "C:\\Users\\efuab\\source\\repos\\Repo One\\Automation-One\\TestingGroupJ\\TestingGroupJ.csproj",
         "packagesPath": "C:\\Users\\efuab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efuab\\source\\repos\\TestingGroupJ\\TestingGroupJ\\obj\\",
+        "outputPath": "C:\\Users\\efuab\\source\\repos\\Repo One\\Automation-One\\TestingGroupJ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\efuab\\AppData\\Roaming\\NuGet\\NuGet.Config",
